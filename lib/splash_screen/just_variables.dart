@@ -1,0 +1,2 @@
+
+bool isCurrentUserLoggedIn = false;
